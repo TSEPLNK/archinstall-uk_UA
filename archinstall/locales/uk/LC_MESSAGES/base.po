@@ -268,7 +268,7 @@ msgid "Bootloader"
 msgstr "Завантажувач"
 
 msgid "Root password"
-msgstr "Пароль root"
+msgstr "Пароль суперкористувача (root)"
 
 msgid "Superuser account"
 msgstr "Обліковий запис суперкористувача"
